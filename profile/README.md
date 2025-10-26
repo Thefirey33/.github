@@ -6,6 +6,7 @@ i generally enjoy indie games like OneShot, Undertale, deltarune etc. I mostly u
 
 
 > "if it works, don't fix it."
+> 
 > some programmer guy in some year.
 
 visit <https://thefirey33.vercel.app> for more details.
